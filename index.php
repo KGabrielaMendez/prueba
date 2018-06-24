@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "es php";
+        echo "y esto no sle";
         ?>
         hello world
         
